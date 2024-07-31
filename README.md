@@ -1,3 +1,4 @@
+# Disease Predictor
 ---
 title: Disease Prediction
 emoji: ⚡
